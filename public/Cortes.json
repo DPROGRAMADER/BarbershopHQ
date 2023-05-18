@@ -1,0 +1,404 @@
+{
+    "registros": [
+        {
+            "id": 1,
+            "nombre": "Barbería El Clásico",
+            "direccion": "Calle Principal 123",
+            "ciudad": "Ciudad A",
+            "telefono": "555-1234",
+            "imagen": "ruta/imagen1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Barbería Corte Perfecto",
+            "direccion": "Avenida Central 456",
+            "ciudad": "Ciudad B",
+            "telefono": "555-5678",
+            "imagen": "ruta/imagen2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Barbería Estilo Moderno",
+            "direccion": "Calle Principal 789",
+            "ciudad": "Ciudad C",
+            "telefono": "555-9012",
+            "imagen": "ruta/imagen3.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Barbería Cortes de Lujo",
+            "direccion": "Avenida Central 987",
+            "ciudad": "Ciudad D",
+            "telefono": "555-3456",
+            "imagen": "ruta/imagen4.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Barbería Estilo Urbano",
+            "direccion": "Calle Principal 654",
+            "ciudad": "Ciudad E",
+            "telefono": "555-7890",
+            "imagen": "ruta/imagen5.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Barbería Clásicos Modernos",
+            "direccion": "Avenida Central 321",
+            "ciudad": "Ciudad F",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen6.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Barbería Estilo Retro",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad G",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen7.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Barbería Cortes Vanguardistas",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad H",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen8.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Barbería Moderna y Elegante",
+            "direccion": "Calle Principal 210",
+            "ciudad": "Ciudad I",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen9.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Barbería Clásica",
+            "direccion": "Avenida Central 765",
+            "ciudad": "Ciudad J",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen10.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Barbería Estilo Vintage",
+            "direccion": "Calle Principal 543",
+            "ciudad": "Ciudad K",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen11.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Barbería Cortes de Época",
+            "direccion": "Avenida Central 876",
+            "ciudad": "Ciudad L",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen12.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Barbería Elegancia Clásica",
+            "direccion": "Calle Principal 210",
+            "ciudad": "Ciudad M",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen13.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Barbería Estilo Retro",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad N",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen14.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Barbería Cortes Vanguardistas",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad O",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen15.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Barbería Moderna y Sofisticada",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad P",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen16.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Barbería Clásica de Caballeros",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad Q",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen17.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Barbería Estilo Vintage",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad R",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen18.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "Barbería Cortes de Época",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad S",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen19.jpg"
+        },
+        {
+            "id": 20,
+            "nombre": "Barbería Elegancia Clásica",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad T",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen20.jpg"
+        },
+        {
+            "id": 21,
+            "nombre": "Barbería Estilo Moderno",
+            "direccion": "Calle Principal 123",
+            "ciudad": "Ciudad U",
+            "telefono": "555-1234",
+            "imagen": "ruta/imagen21.jpg"
+        },
+        {
+            "id": 22,
+            "nombre": "Barbería Corte Perfecto",
+            "direccion": "Avenida Central 456",
+            "ciudad": "Ciudad V",
+            "telefono": "555-5678",
+            "imagen": "ruta/imagen22.jpg"
+        },
+        {
+            "id": 23,
+            "nombre": "Barbería Elegante y Clásica",
+            "direccion": "Calle Principal 789",
+            "ciudad": "Ciudad W",
+            "telefono": "555-9012",
+            "imagen": "ruta/imagen23.jpg"
+        },
+        {
+            "id": 24,
+            "nombre": "Barbería Estilo Retro",
+            "direccion": "Avenida Central 987",
+            "ciudad": "Ciudad X",
+            "telefono": "555-3456",
+            "imagen": "ruta/imagen24.jpg"
+        },
+        {
+            "id": 25,
+            "nombre": "Barbería Cortes Modernos",
+            "direccion": "Calle Principal 654",
+            "ciudad": "Ciudad Y",
+            "telefono": "555-7890",
+            "imagen": "ruta/imagen25.jpg"
+        },
+        {
+            "id": 26,
+            "nombre": "Barbería Estilo Urbano",
+            "direccion": "Avenida Central 321",
+            "ciudad": "Ciudad Z",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen26.jpg"
+        },
+        {
+            "id": 27,
+            "nombre": "Barbería Clásicos Modernos",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad AA",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen27.jpg"
+        },
+        {
+            "id": 28,
+            "nombre": "Barbería Cortes Vanguardistas",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad BB",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen28.jpg"
+        },
+        {
+            "id": 29,
+            "nombre": "Barbería Moderna y Elegante",
+            "direccion": "Calle Principal 210",
+            "ciudad": "Ciudad CC",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen29.jpg"
+        },
+        {
+            "id": 30,
+            "nombre": "Barbería Clásica",
+            "direccion": "Avenida Central 765",
+            "ciudad": "Ciudad DD",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen30.jpg"
+        },
+        {
+            "id": 31,
+            "nombre": "Barbería Estilo Vintage",
+            "direccion": "Calle Principal 543",
+            "ciudad": "Ciudad EE",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen31.jpg"
+        },
+        {
+            "id": 32,
+            "nombre": "Barbería Cortes de Época",
+            "direccion": "Avenida Central 876",
+            "ciudad": "Ciudad FF",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen32.jpg"
+        },
+        {
+            "id": 33,
+            "nombre": "Barbería Elegancia Clásica",
+            "direccion": "Calle Principal 210",
+            "ciudad": "Ciudad GG",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen33.jpg"
+        },
+        {
+            "id": 34,
+            "nombre": "Barbería Estilo Retro",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad HH",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen34.jpg"
+        },
+        {
+            "id": 35,
+            "nombre": "Barbería Cortes Vanguardistas",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad II",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen35.jpg"
+        },
+        {
+            "id": 36,
+            "nombre": "Barbería Moderna y Sofisticada",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad JJ",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen36.jpg"
+        },
+        {
+            "id": 37,
+            "nombre": "Barbería Clásica de Caballeros",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad KK",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen37.jpg"
+        },
+        {
+            "id": 38,
+            "nombre": "Barbería Estilo Vintage",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad LL",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen38.jpg"
+        },
+        {
+            "id": 39,
+            "nombre": "Barbería Cortes de Época",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad MM",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen39.jpg"
+        },
+        {
+            "id": 40,
+            "nombre": "Barbería Elegancia Clásica",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad NN",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen40.jpg"
+        },
+        {
+            "id": 41,
+            "nombre": "Barbería Estilo Moderno",
+            "direccion": "Calle Principal 123",
+            "ciudad": "Ciudad OO",
+            "telefono": "555-1234",
+            "imagen": "ruta/imagen41.jpg"
+        },
+        {
+            "id": 42,
+            "nombre": "Barbería Corte Perfecto",
+            "direccion": "Avenida Central 456",
+            "ciudad": "Ciudad PP",
+            "telefono": "555-5678",
+            "imagen": "ruta/imagen42.jpg"
+        },
+        {
+            "id": 43,
+            "nombre": "Barbería Elegante y Clásica",
+            "direccion": "Calle Principal 789",
+            "ciudad": "Ciudad QQ",
+            "telefono": "555-9012",
+            "imagen": "ruta/imagen43.jpg"
+        },
+        {
+            "id": 44,
+            "nombre": "Barbería Estilo Retro",
+            "direccion": "Avenida Central 987",
+            "ciudad": "Ciudad RR",
+            "telefono": "555-3456",
+            "imagen": "ruta/imagen44.jpg"
+        },
+        {
+            "id": 45,
+            "nombre": "Barbería Cortes Modernos",
+            "direccion": "Calle Principal 654",
+            "ciudad": "Ciudad SS",
+            "telefono": "555-7890",
+            "imagen": "ruta/imagen45.jpg"
+        },
+        {
+            "id": 46,
+            "nombre": "Barbería Estilo Urbano",
+            "direccion": "Avenida Central 321",
+            "ciudad": "Ciudad TT",
+            "telefono": "555-2345",
+            "imagen": "ruta/imagen46.jpg"
+        },
+        {
+            "id": 47,
+            "nombre": "Barbería Clásicos Modernos",
+            "direccion": "Calle Principal 876",
+            "ciudad": "Ciudad UU",
+            "telefono": "555-6789",
+            "imagen": "ruta/imagen47.jpg"
+        },
+        {
+            "id": 48,
+            "nombre": "Barbería Cortes Vanguardistas",
+            "direccion": "Avenida Central 543",
+            "ciudad": "Ciudad VV",
+            "telefono": "555-0123",
+            "imagen": "ruta/imagen48.jpg"
+        },
+        {
+            "id": 49,
+            "nombre": "Barbería Moderna y Elegante",
+            "direccion": "Calle Principal 210",
+            "ciudad": "Ciudad WW",
+            "telefono": "555-4567",
+            "imagen": "ruta/imagen49.jpg"
+        },
+        {
+            "id": 50,
+            "nombre": "Barbería Clásica",
+            "direccion": "Avenida Central 765",
+            "ciudad": "Ciudad XX",
+            "telefono": "555-8901",
+            "imagen": "ruta/imagen50.jpg"
+        }
+    ]
+}
